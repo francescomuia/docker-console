@@ -1,0 +1,3 @@
+[submodule "docker-console-config"]
+	path = docker-console-config
+	url = https://github.com/francescomuia/docker-console-config.git
