@@ -1,3 +1,6 @@
 [submodule "docker-console-config"]
 	path = docker-console-config
 	url = https://github.com/francescomuia/docker-console-config.git
+[submodule "docker-console-boms"]
+	path = docker-console-boms
+	url = https://github.com/francescomuia/docker-console-boms.git
