@@ -7,3 +7,6 @@
 [submodule "docker-console-config-server"]
 	path = docker-console-config-server
 	url = https://github.com/francescomuia/docker-console-config-server.git
+[submodule "docker-console-eureka"]
+	path = docker-console-eureka
+	url = https://github.com/francescomuia/docker-console-eureka.git
