@@ -9,5 +9,6 @@
   <modules>
   	<module>docker-console-boms</module>
   	<module>docker-console-config</module>
+        <module>docker-console-eureka</module>
   </modules>
 </project>
