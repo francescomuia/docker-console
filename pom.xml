@@ -7,8 +7,7 @@
   <name>docker-console</name>
   <description>Web Console for Docker</description>
   <modules>
-  	<module>docker-console-bom</module>
+  	<module>docker-console-boms</module>
   	<module>docker-console-config</module>
-	<module>docker-console-config-server</module>
   </modules>
 </project>
